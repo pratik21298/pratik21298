@@ -1,13 +1,13 @@
 # Pratik Singh
 
-**AI Engineer | Data Scientist | Mobile App Developer**  
+**|AI Engineer | Data Scientist |**  
 pratikk21298@gmail.com | +91 7979953659 | bento.me/pratik-official
 
 ---
 <div>
   ## 👨‍💻 About Me
 
-I am an aspiring **AI Engineer** and **Data Scientist** with expertise in **Machine Learning**, **Data Science**, and **Software Development**. My passion lies in leveraging cutting-edge technologies like **Generative AI**, **OpenCV**, and **Deep Learning** to create innovative solutions for real-world challenges. I also have a strong foundation in **Mobile App Development** using **Kotlin** and **Web Development** with modern tech stacks.
+I am an aspiring **AI Engineer** and **Data Scientist** with expertise in **Machine Learning**, **Data Science**, and **Software Development**. My passion lies in leveraging cutting-edge technologies like **Generative AI**, **NLP**, and **Machine Learning** to create innovative solutions for real-world challenges.
 
 ---
 
