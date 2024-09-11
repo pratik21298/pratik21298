@@ -1,6 +1,79 @@
-<div align="center">
-  <img height="auto" src="https://images8.alphacoders.com/115/1156488.png"  />
-</div>
+# Pratik Singh
+
+**AI Engineer | Data Scientist | Mobile App Developer**  
+pratikk21298@gmail.com | +91 7979953659 | bento.me/pratik-official
+
+---
+
+## 👨‍💻 About Me
+
+I am an aspiring **AI Engineer** and **Data Scientist** with expertise in **Machine Learning**, **Data Science**, and **Software Development**. My passion lies in leveraging cutting-edge technologies like **Generative AI**, **OpenCV**, and **Deep Learning** to create innovative solutions for real-world challenges. I also have a strong foundation in **Mobile App Development** using **Kotlin** and **Web Development** with modern tech stacks.
+
+---
+
+## 🧠 Skills
+
+- **Programming Languages:** Python, JavaScript, HTML, CSS, PHP, C#.NET, SQL, Kotlin  
+- **Technologies & Tools:** TensorFlow, PyTorch, OpenCV, MATLAB, Vertex AI, Gemini APIs  
+- **Core Expertise:** Data Analytics, Machine Learning, Image Processing, Web Development, Android App Development  
+- **Frameworks:** TensorFlow, PyTorch, ResNet, DenseNet, VGG, Bootstrap
+
+---
+
+## 🏢 Experience
+
+### Data Science and AI Engineer (Intern)  
+**LogicBoots Pvt Ltd, Virtual**  
+_Feb 2024 - May 2024_  
+- Applied machine learning models for deriving insights from data.
+- Collected and analyzed heart and lung health data, focusing on improving lung health.
+- Implemented a wheat detection algorithm using **OpenCV** with enhanced image processing accuracy.
+
+### Junior Web Developer (Intern)  
+**Webnet Technologies, Patna**  
+_Jul 2023 - Aug 2023_  
+- Built and maintained websites on various platforms for clients.
+- Assisted with troubleshooting and creating website applications.
+- Conducted research to support project development and client requirements.
+
+---
+
+## 🎓 Education
+
+### Master of Computer Applications (MCA), Advanced Computer Science  
+**Amity University Patna**  
+_2022 - 2024_  
+CGPA: 8.00/8
+
+### Bachelor of Computer Applications (BCA), Computer Science  
+**New Horizon College of Engineering**  
+_2018 - 2021_
+
+---
+
+## 💼 Projects
+
+### [COVID-19 X-ray Images Detection](https://github.com/your-repo-link)  
+*Apr 2024 - May 2024*  
+- Developed a **deep learning** model to detect COVID-19 from chest X-rays for early diagnosis.  
+- Used **TensorFlow**/**PyTorch** to design and train a **Convolutional Neural Network (CNN)**.  
+- Fine-tuned pre-trained models like **ResNet**, **DenseNet**, and **VGG** for optimized results.  
+- Implemented the model into a user-friendly web application for healthcare professionals.
+
+---
+
+## 🏆 Certifications
+
+- **Prompt Design in Vertex AI Skill Badge (Google)** - Aug 2024  
+  Skills: AI, Gemini APIs, Generative AI, Prompt Engineering. Specialized in optimizing prompt design for enhanced AI model performance using **Vertex AI** on **Google Cloud Platform (GCP)**.
+
+- **Android App Development using Kotlin (IIT Bombay)** - Apr 2024  
+  Skills: Kotlin, Mobile App Development. Achieved 85%, covering UI design, backend integration, and real-time data handling.
+
+- **MATLAB Onramp (MathWorks)** - Feb 2024  
+  Skills: MATLAB, Data Analysis, Visualization. Focused on data analysis, visualization, and problem-solving with practical simulations.
+
+---
 
 ###
 
@@ -37,41 +110,13 @@
 ###
 
 <div align="center">
-<!-- Copy-paste in your Readme.md file -->
+  
+## 📂 Portfolio & GitHub
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=128886214" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=128886214&image_size=auto&color_scheme=dark" width="1000" height="auto">
-    <img alt="Contribution Time Distribution of @pratik21298" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=128886214&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
+ **Portfolio:** [Portfolio link](https://your-portfolio-link.com)  
+ **GitHub:** [GitHub link](https://github.com/your-github-profile)  
+  </div>
+---
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-</div>
-
-###
-
-<h3 align="center"> :🔥:Tech Stack:</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="storybook logo"  />
-</div>
-
-###
-
-<div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
+Feel free to explore my projects and reach out for collaborations or opportunities!
 ###
