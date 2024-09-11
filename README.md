@@ -4,12 +4,21 @@
 pratikk21298@gmail.com | +91 7979953659 | bento.me/pratik-official
 
 ---
-
-## 👨‍💻 About Me
+<div>
+  ## 👨‍💻 About Me
 
 I am an aspiring **AI Engineer** and **Data Scientist** with expertise in **Machine Learning**, **Data Science**, and **Software Development**. My passion lies in leveraging cutting-edge technologies like **Generative AI**, **OpenCV**, and **Deep Learning** to create innovative solutions for real-world challenges. I also have a strong foundation in **Mobile App Development** using **Kotlin** and **Web Development** with modern tech stacks.
 
 ---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pratik21298&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="auto" alt="streak graph"  />
+</div>
+</div>
+
+---
+
+
 
 ## 🧠 Skills
 
@@ -92,13 +101,6 @@ _2018 - 2021_
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik21298&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Pratik" height="auto" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=pratik21298&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="auto" alt="streak graph"  />
 </div>
 
 ###
