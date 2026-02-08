@@ -1,7 +1,6 @@
 # Pratik Singh
 
 **|AI Engineer | Data Scientist |**  
-pratikk21298@gmail.com | +91 7979953659 | bento.me/pratik-official
 
 ---
 <div>
